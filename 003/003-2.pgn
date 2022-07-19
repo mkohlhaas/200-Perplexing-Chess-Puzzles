@@ -1,0 +1,4 @@
+[FEN "8/3Nn3/1Pk1K1p1/P1p1R3/3pN3/2p5/8/4q2r w KQkq - 0 1"]
+
+1. Nd6 {Threatens Nb8#} 1... Rh8 2. Rxe1 {Threatens Ne5#} 2... c4 3. Rb1 Rf8
+{Zugzwang} 4. Ne5+ Kc5 5. Rb5#
